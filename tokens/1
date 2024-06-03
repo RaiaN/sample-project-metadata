@@ -1,25 +1,21 @@
 {
     "id": 1,
-    "image": "https://raian.github.io/sample-project-metadata/tokens/token1.webp",
-    "token_id": "1",
+    "image": "https://raian.github.io/sample-project-metadata/tokens/1.png",
+    "token_id": "1p
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Mount #1",
-    "description": "Gold mount",
+    "name": "Blue water horse",
+    "description": "Blue water horse",
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Tier",
+        "value": "Rare"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "trait_type": "Region",
+        "value": "South"
       }
     ]
   }

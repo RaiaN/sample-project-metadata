@@ -1,21 +1,21 @@
 {
-    "id": 3,
-    "image": "https://raian.github.io/sample-project-metadata/tokens/3.png",
-    "token_id": "3",
+    "id": 4,
+    "image": "https://raian.github.io/sample-project-metadata/tokens/4.png",
+    "token_id": "4",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Ice unicorn",
-    "description": "Ice unicorn",
+    "name": "Vulcanic Snail",
+    "description": "Vulcanic Snail",
     "external_url": null,
     "attributes": [
       {
         "trait_type": "Tier",
-        "value": "Legendary"
+        "value": "Rare"
       },
       {
         "trait_type": "Region",
-        "value": "North"
+        "value": "East"
       }
     ]
   }

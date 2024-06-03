@@ -1,25 +1,21 @@
 {
     "id": 2,
-    "image": "https://raian.github.io/sample-project-metadata/tokens/token2.webp",
+    "image": "https://raian.github.io/sample-project-metadata/tokens/2.png",
     "token_id": "2",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Mount #2",
-    "description": "Rainbow mount",
+    "name": "Forest wolf reptile",
+    "description": "Forest wolf reptile",
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Tier",
+        "value": "Unique"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "trait_type": "Region",
+        "value": "West"
       }
     ]
   }
